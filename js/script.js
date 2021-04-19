@@ -290,11 +290,4 @@ window.addEventListener('DOMContentLoaded', function() {
                 }
             });
 
-
-
-
-        
-
-
-
 });
